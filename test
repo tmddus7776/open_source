@@ -1,1 +1,19 @@
-Git 하고싶다...
+Git 명령어
+
+초기 설정
+**$ git init** : 현재 작업중인 디렉토리에 빈 git 레포지토리를 생성한다
+$ **git config —global user.name "<유저명>"** : git에서 commit 할 때 유저명을 설정한다.
+$ **git config —global user.email "<이메일>"** : git에서 commit 할 때 이메일을 설정한다.
+
+파일을 작성/수정하여 작업트리에 있음                       [Untracked/Modified 상태]
+→ **$ git add <파일>** : Stage(임시저장공간)에 올림      [Staging 상태]
+→ **$ git commit -m "<메시지>"** : Staging 상태의 파일들을 로컬저장소에 올림
+
+원격저장소(Github)에 올리고 싶을 경우
+→ **$ git remote add origin <git주소.git>** : Github의 Repository(저장소)와 연동한다.
+→ **$ git push -u origin master** : 처음 push할 경우 origin(주소)의 master(브랜치)에 올린다는 뜻.
+→ **$ git push** : 한 번 브랜치가 설정되면 이후에는 push만 해줘도 됨.
+
+원격저장소(Github)에서 받아오기 싶을 경우
+→ **$ git pull origin master** : 처음 pull 할 경우 origin(주소)의 master(브랜치)에서 받아온다는 뜻.
+→ **$ git pull** : 한 번 브랜치가 설정되면 이후에는 pull만 해줘도 됨.
