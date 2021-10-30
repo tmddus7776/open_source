@@ -4,7 +4,7 @@ COVID-19로 인해 언택트(untact)시대를 지나 온택트(ontact)시대에 
 
 > 가상세계에서도 대면 커뮤니케이션에 버금가는 풍요로운 미디어를 구축한다.
 
-![icon.png](attachment:icon.png)
+![icon.png](C:\Users\tmddu\Desktop\1학년 2학기 과제\1-2) 오픈소스 기초설계\Lab 1)/icon.png)
 
 
 
