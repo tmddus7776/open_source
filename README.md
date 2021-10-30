@@ -7,6 +7,7 @@ COVID-19로 인해 언택트(untact)시대를 지나 온택트(ontact)시대에 
 > 가상세계에서도 대면 커뮤니케이션에 버금가는 풍요로운 미디어를 구축한다.
 
 
+![image](https://user-images.githubusercontent.com/92290087/139526563-8e0642bb-4fc6-4dbf-8347-80dff798c763.png)
 
 * * *
 
